@@ -65,6 +65,7 @@ aios-cli hive select-tier 5
 ```
 aios-cli start --connect
 ```
+![6666](https://github.com/user-attachments/assets/ba3e203d-19e3-40cc-b2ee-c3a116001dd1)
 #### Check your points
 ```
 aios-cli hive points
