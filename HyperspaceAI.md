@@ -1,7 +1,7 @@
 # Hyperspace Ai
 
-* Official website: [https://hyper.space/](https://)
-* X account (formerly Twitter): [https://x.com/HyperspaceAI](https://)
+* Official website: [https://hyper.space/](https://hyper.space/)
+* X account (formerly Twitter): [https://x.com/HyperspaceAI](https://x.com/HyperspaceAI)
 ---
 ## 1.Node types
 * You can run Hyperspace Ai's Node in different ways: Browser, Client, and CLI.
