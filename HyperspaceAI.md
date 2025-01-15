@@ -11,14 +11,15 @@
 ## 2.Run a Linux CLI Node
 * The CLI node is a command line interface for accessing functionality similar to that of the aiOS desktop application. If you prefer to use the terminal, you can use the CLI node.
 * For the full tutorial, check out the [official repository](https://github.com/hyperspaceai/aios-cli?tab=readme-ov-file).
+---
 ### 2.1 Install
-
-``````shell notranslate position-relative overflow-auto
+``````
 curl https://download.hyper.space/api/install | bash
 ``````
 ![222](https://github.com/user-attachments/assets/1cc5f3e0-fa3f-4ddb-8eaa-0737640dd0c8)
-### 2.2 Run node
 
+---
+### 2.2 Run node
 #### Run the daemon
 * Open a new terminal window via the desktop or use `screen -S hyperspace` to open:
 ![333](https://github.com/user-attachments/assets/76929aac-7a8d-48dd-b013-39c47646a602)
@@ -69,9 +70,12 @@ aios-cli start --connect
 aios-cli hive points
 ```
 ![55555](https://github.com/user-attachments/assets/b9aed69a-77e9-4ec2-acbc-5987a795fa3d)
+---
 ### 2.3 Terminate the process
 * To stop the node from running, you can use the following command (if manually stopping or restarting your computer causes the node to terminate, you can then use a shortcut to connect)
 ```
 aios-cli kill
 ```
+---
 ## For a full tutorial and more detailed instructions, pls check out the [**official repository**](https://https://github.com/hyperspaceai/aios-cli?tab=readme-ov-file). 
+---
