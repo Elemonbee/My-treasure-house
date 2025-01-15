@@ -11,5 +11,5 @@
 
 ---
 
-## [List](https://github.com/Elemonbee/Tutorial-for-Running-node-on-Linux/tree/Node-List
+## [List](https://github.com/Elemonbee/Tutorial-for-Running-node-on-Linux/tree/Node-List)
 
