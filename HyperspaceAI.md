@@ -46,6 +46,7 @@ aios-cli models add hf:TheBloke/Mistral-7B-Instruct-v0.1-GGUF:mistral-7b-instruc
 aios-cli hive import-keys ./my.pem
 ```
 * If you want to edit your private key, then you can use `nano my.pem` to do that.
+#### Access Hive (server) using these keys
 ```
 aios-cli hive login
 ```
