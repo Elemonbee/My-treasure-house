@@ -6,4 +6,9 @@
 ---
 ## Preparation
 
-* A linux computer (should be crap)
+* A linux computer  #Should be crap
+* Install the necessary apps and dependencies  
+
+---
+
+## List
