@@ -77,5 +77,5 @@ aios-cli hive points
 aios-cli kill
 ```
 ---
-## For a full tutorial and more detailed instructions, pls check out the [**official repository**](https://https://github.com/hyperspaceai/aios-cli?tab=readme-ov-file). 
+## For a full tutorial and more detailed instructions, pls check out the [**official repository**](https://github.com/hyperspaceai/aios-cli?tab=readme-ov-file). 
 ---
