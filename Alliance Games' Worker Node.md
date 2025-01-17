@@ -1,8 +1,3 @@
----
-title: Alliance Games' Worker Node
-
----
-
 # Alliance Games' Worker Node
 Official website:https://alliancegames.xyz/
 X account (formerly Twitter):https://x.com/alliancegamesx
