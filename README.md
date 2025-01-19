@@ -1,4 +1,4 @@
-# 🌟 Tutorial for myself 🌟
+# 🌟 Treasure House 🌟
 # Running AI and Web3 Nodes on Linux 
 
 * My treasure house to help me remember the programs I run as well as the steps.
