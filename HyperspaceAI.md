@@ -78,5 +78,7 @@ aios-cli hive points
 aios-cli kill
 ```
 ---
-## For a full tutorial and more detailed instructions, pls check out the [**official repository**](https://github.com/hyperspaceai/aios-cli?tab=readme-ov-file). 
+# Only one key can be used on a single device.
+---
+## For a full tutorial and more detailed instructions, check out the [**official repository**](https://github.com/hyperspaceai/aios-cli?tab=readme-ov-file). 
 ---
