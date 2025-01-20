@@ -10,10 +10,10 @@
 ## Bitcoin
 * https://coinfaucet.eu/en/btc-testnet/
 * https://bitcoinfaucet.uo1.net/send.php
-**Signet** 
+#### **Signet** 
 * https://signet25.bublina.eu.org/
 * https://signetfaucet.com/
-**Botanix**
+#### **Botanix**
 * https://botanix.5thweb.io/
 * https://faucet.botanixlabs.dev/
 
