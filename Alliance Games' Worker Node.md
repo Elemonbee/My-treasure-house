@@ -22,7 +22,7 @@ aarch64: ARM 64-bit system（ARM64）
 ![image](https://github.com/user-attachments/assets/9c2c546b-6908-450d-a88e-d5698621b5cf)
 
 3. Click on the **Next Step** button to go to the official guide page.
-![image](https://github.com/user-attachments/assets/6da7e53d-6e1b-4661-869a-d6b79bd2b865)
+![1737362854536](https://github.com/user-attachments/assets/1e766924-5ae6-4b1f-8636-c5830100f54b)
 
 4. Follow the official guide to install and run node.
    
