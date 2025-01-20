@@ -6,5 +6,5 @@
 * All code belongs to the original author.❤️
 ---
 
-## [# Running AI and Web3 Nodes on Linux ](https://github.com/Elemonbee/Tutorial-for-Running-node-on-Linux/tree/Node-List)
+### [Running AI and Web3 Nodes on Linux ](https://github.com/Elemonbee/Tutorial-for-Running-node-on-Linux/tree/Node-List)
 
